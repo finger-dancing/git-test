@@ -9,5 +9,8 @@ package cn.com.jzc.controller;
 public class TestController {
 
 
+    public void master(){
+        System.out.println("this is the master branch!");
+    }
 
 }
