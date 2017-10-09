@@ -9,5 +9,8 @@ package cn.com.jzc.controller;
 public class TestController {
 
 
+    public void dev(){
+
+    }
 
 }
